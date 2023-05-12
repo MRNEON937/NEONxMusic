@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 Sophia X ᴍᴜsɪᴄ 」──
+    ──「 Love X ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <a href="https://github.com/AbhiModszYT/AMMusic/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Features Of Shizuka And Commands ❤️
+## Features Of NEON And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
