@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 Love X ᴍᴜsɪᴄ 」──
+    ──「 NEON ダ MUSIC 」──
 </h2>
 
 <p align="center">
