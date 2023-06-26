@@ -1,8 +1,8 @@
-from AM.core.bot import AnonXBot
-from AM.core.dir import dirr
-from AM.core.git import git
-from AM.core.userbot import Userbot
-from AM.misc import dbb, heroku, sudo
+from NEON.core.bot import LoveXmusic
+from NEON.core.dir import dirr
+from NEON.core.git import git
+from NEON.core.userbot import Userbot
+from NEON.misc import dbb, heroku, sudo
 
 from .logging import LOGGER
 
@@ -18,7 +18,7 @@ heroku()
 sudo()
 
 # Clients
-app = AnonXBot()
+app = LoveXmusic()
 userbot = Userbot()
 
 
